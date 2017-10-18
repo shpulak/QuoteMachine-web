@@ -1,6 +1,6 @@
 # Quote Machine
 
-A Quote Generator Machine which generated random quotes! 
+A Quote Generator Machine which generates random quotes! 
 
 ### Getting Started
 
@@ -39,4 +39,4 @@ This project is hosted on Github pages at [QuoteMachine](https://shpulak.github.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
