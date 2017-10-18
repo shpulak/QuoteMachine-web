@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>QuoteMachine</title>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- <link rel="stylesheet" href="./css/font-awesome.min.css"> -->
+    <script src="https://use.fontawesome.com/320384364a.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="./js/popper.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="jumbotron" style="margin:20px">
+            <h1 class="display-3">Quote Generator</h1>
+            <p class="lead">This is a Quote Generator Machine. Be ready to ponder on some abstract thoughts!</p>
+            <hr class="my-4">
+            <div class="card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title" id="quote-placeholder"><i class="fa fa-spinner fa-spin" aria-hidden="true"></i> Your Quote is Loading..</h4>
+                        <p class="card-text" id="quote-author"></p>
+                    </div>
+                    <div class="card-header">
+                        <a id="twitter" href="http://twitter.com"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
+                        <a id="Facebook" href="http://facebook.com"><i class="fa fa-facebook-square fa-2x"></i></a>
+                        <button class="btn btn-quote float-right" onclick="getQuote()">Get New Quote!</button>
+                    </div>
+                </div>
+            </div>
+            <footer>
+                <span>&copy;shpulak</span>
+            </footer>
+        </div>
+    </div>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>
