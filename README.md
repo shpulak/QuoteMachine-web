@@ -23,20 +23,20 @@ Click [here](https://github.com/shpulak/QuoteMachine-web.git) then download the 
 This repository has all the js and css libraries included with it. 
 
 
-## Deployment
+### Deployment
 
 This project is hosted on Github pages at [QuoteMachine](https://shpulak.github.io/QuoteMachine-web/index.html)
 
-## Built With
+### Built With
 
 * [Bootstrap](https://getbootstrap.com/) - v4.0.0
 * [jQuery](https://maven.apache.org/) - v3.2.1
 * [Font Awesome](http://fontawesome.io/) - v4.7.0 - Used for fonts and icons
 
-## Authors
+### Authors
 
 * **Shashwat Pulak** - [shpulak](https://github.com/shpulak)
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
